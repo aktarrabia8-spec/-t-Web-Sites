@@ -3,7 +3,7 @@ body{
 }
 
 .bg-greenyellow{
-    background-color: greenyellow;
+    background: linear-gradient(90deg, #d6aa68 0, #c3a880 50%, #fffbf5 100%);
    
 }
 
